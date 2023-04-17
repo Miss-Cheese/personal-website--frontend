@@ -4,9 +4,6 @@ import React from 'react';
 
 function App() {
 
-  // const counter = useSelector(state => state.counter)
-  // const dispatch = useDispatch()
-
   return (
     <div className="App">
         <h1>Natalie Galligan</h1>
